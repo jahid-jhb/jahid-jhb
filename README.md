@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="./cover.svg" alt="Profile Banner" width="100%" />
+  <img src="./images/cover.svg" alt="Profile Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm **Jahid Hasan**  
